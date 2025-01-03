@@ -10,3 +10,15 @@ Welcome to the Perfume Shop App, a full-stack e-commerce application for discove
 * RESTful API for managing perfumes, categories, users, and orders.
 * Secure user authentication and authorization using JWT.
 * Efficient database interaction through Prisma ORM and MySQL.
+
+## 🛠️ Technologies Used
+### Frontend:
+* React Native: Cross-platform mobile app framework.
+* Expo: Simplified app development and testing.
+* Redux: State management for seamless user experience.
+### Backend:
+* Node.js: JavaScript runtime environment.
+* Express.js: Web framework for building REST APIs.
+* Prisma: ORM for type-safe and efficient database queries.
+* MySQL: Relational database for storing perfumes, users, and orders.
+* JWT: Secure user authentication.
