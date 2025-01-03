@@ -1,6 +1,4 @@
-:
-
-🌸 Perfume Shop App
+## 🌸 Perfume Shop App
 Welcome to the Perfume Shop App, a full-stack e-commerce application for discovering and purchasing perfumes. This project showcases a mobile frontend built with React Native and a backend API powered by Node.js with Express.js, using Prisma as the ORM to connect to a MySQL database.
 
 🚀 Features
